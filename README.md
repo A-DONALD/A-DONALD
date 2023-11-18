@@ -1,16 +1,24 @@
-### Hi there 👋
+<p align="center">
+<a href="https://github.com/A-DONALD">
+  <h1>Donald Youngoua</h1>
+  <p style="color:#FF0000";>Computer science student</p>
+</a>
+<br/>
 
-<!--
-**A-DONALD/A-DONALD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://a-donald.vercel.app">
+    <img src="https://img.shields.io/badge/Website-nextJS-red?style=flat-square">
+</a>  
+<a href="https://www.linkedin.com/in/donald-youngoua-3b573a257/">
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="mailto:donaldyoungoua@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
-Here are some ideas to get you started:
+<br/> 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/A-DONALD">
+    <img src="https://github-stats-alpha.vercel.app/api?username=a-donald&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+
+</p>
