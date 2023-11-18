@@ -1,9 +1,10 @@
-<p align="center">
 <a href="https://github.com/A-DONALD">
-  <h1>Donald Youngoua</h1>
-  <p style="color:#FF0000";>Computer science student</p>
+  <h1 align="center">Donald Youngoua</h1>
+  <p align="center">Computer science student</p>
 </a>
 <br/>
+
+<p align="center">
 
 <a href="https://a-donald.vercel.app">
     <img src="https://img.shields.io/badge/Website-nextJS-red?style=flat-square">
