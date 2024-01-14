@@ -22,4 +22,16 @@
     <img src="https://github-stats-alpha.vercel.app/api?username=a-donald&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 
+<br>
+
+<details>
+<summary>📈 Github Stats</summary>
+<br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=a-donald&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=a-donald&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=a-donald&theme=dracula)
+
+</details>
+
 </p>
